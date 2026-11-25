@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://porconova.com/skin3d/sitemap.xml
